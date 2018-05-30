@@ -1,0 +1,2 @@
+# open_manipulator_with_tb3_simulations-release
+Bloom release repository for open_manipulator_with_tb3_simulations
