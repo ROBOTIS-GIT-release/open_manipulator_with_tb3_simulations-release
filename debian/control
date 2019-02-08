@@ -1,0 +1,12 @@
+Source: ros-kinetic-open-manipulator-with-tb3-simulations
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/open_manipulator_with_tb3_simulations
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-open-manipulator-with-tb3-simulations
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-open-manipulator-with-tb3-gazebo
+Description: Simulation packages for OpenManipulator with TurtleBot3
