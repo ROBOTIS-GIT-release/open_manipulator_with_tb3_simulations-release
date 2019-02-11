@@ -1,0 +1,12 @@
+Source: ros-melodic-open-manipulator-with-tb3-gazebo
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-controller-manager, ros-melodic-gazebo-ros, ros-melodic-gazebo-ros-control, ros-melodic-urdf, ros-melodic-xacro
+Homepage: http://wiki.ros.org/open_manipulator_with_tb3_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-melodic-open-manipulator-with-tb3-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-controller-manager, ros-melodic-gazebo-ros, ros-melodic-gazebo-ros-control, ros-melodic-urdf, ros-melodic-xacro
+Description: Simulation package using gazebo for OpenManipulator with TurtleBot3
