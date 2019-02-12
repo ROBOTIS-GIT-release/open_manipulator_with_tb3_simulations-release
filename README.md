@@ -1,3 +1,28 @@
+## open_manipulator_with_tb3_simulations (melodic) - 1.1.0-2
+
+The packages in the `open_manipulator_with_tb3_simulations` repository were released into the `melodic` distro by running `/usr/bin/bloom-release open_manipulator_with_tb3_simulations -t melodic -r melodic --edit` on `Tue, 12 Feb 2019 01:12:14 -0000`
+
+These packages were released:
+- `open_manipulator_with_tb3_gazebo`
+- `open_manipulator_with_tb3_simulations`
+
+Version of package(s) in repository `open_manipulator_with_tb3_simulations`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/open_manipulator_with_tb3_simulations.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.1.0-1`
+- new version: `1.1.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## open_manipulator_with_tb3_simulations (melodic) - 1.1.0-1
 
 The packages in the `open_manipulator_with_tb3_simulations` repository were released into the `melodic` distro by running `/usr/bin/bloom-release open_manipulator_with_tb3_simulations -t melodic -r melodic --edit` on `Mon, 11 Feb 2019 21:55:48 -0000`
